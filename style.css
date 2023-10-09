@@ -46,7 +46,7 @@ body{
 
 
 .panel:nth-child(3){
-    background:#62ff24;
+    background:#54cd24;
 }
 
 .bg-unit{
@@ -70,7 +70,7 @@ body{
 }
 
 .panel:nth-child(3) .bg-unit{
-    color:#a7fc85;
+    color:#9dcea4;
 }
 
 .panel h2, .panel input{
